@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "FeverSMP",
+    "username": "FROSTSMP",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "FeverSmpS1.aternos.me",
+    "ip": "frostmc.levyathan.ch",
     "port": 51610,
     "version": "1.20.1",
     "try-creative": false
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Fever Smp | Private Smp ",
+        "Frost Smp | Private Smp ",
         "Enjoy And Have fun !!",
-        "Want Access To Start The Server Dm EvolveGMR_ On Discord"
+        "I am Afk Bot To Active The Server 24/7"
       ]
     },
     "chat-log": true,
