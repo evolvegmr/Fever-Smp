@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "FROSTSMP",
+    "username": "GOATSMPS2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "frostmc.levyathan.ch",
-    "port": 25565,
+    "ip": "goatsmps2.seedloaf.gg",
+    "port": 59194,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -20,14 +20,14 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "123@@**"
+      "password": "##@@,,**"
     },
     "anti-afk": {
       "enabled": true,
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
