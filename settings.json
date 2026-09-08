@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "goatsmps2.mcsh.io",
-    "port": 25565,
+    "ip": "free1.vektalnodes.in",
+    "port": 21035,
     "version": "1.20.1",
     "try-creative": false
   },
