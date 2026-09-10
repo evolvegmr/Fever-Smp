@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "free1.vektalnodes.in",
-    "port": 21035,
+    "ip": "GoatsmpOntop.aternos.me",
+    "port": 16008,
     "version": "1.20.1",
     "try-creative": false
   },
